@@ -1,0 +1,14 @@
+
+h1{
+    text-align: center;
+}
+#btncontainer{
+    text-align: center;
+    align-items: center;
+}
+#countlabel{
+    display: block;
+    text-align: center;
+    font-size: 1.5rem;
+    
+} 
